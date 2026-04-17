@@ -19,3 +19,7 @@ This project is an AI-powered HR assistant that answers employee queries using c
 ## How to Run
 pip install -r requirements.txt  
 streamlit run app.py
+## 📄 Project Documentation
+
+Download the full documentation here:
+👉 [HR Policy Assistant PDF](./HR_Policy_Assistant_Updated_Final.pdf)
